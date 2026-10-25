@@ -33,7 +33,7 @@ Access the deployed web application directly in your browser without any local i
 
 1. **Clone Repository:**
    ```
-   git clone [https://github.com/faustinofernandezatlantis/egn310-Capstone.git](https://github.com/faustinofernandezatlantis/egn310-Capstone.git)
+   git clone [https://github.com/faustinofernandezatlantis/egn310-Module-8.2.git](https://github.com/faustinofernandezatlantis/egn310-Module-8.2.git)
    cd egn310-Capstone
 
 ```
@@ -74,3 +74,6 @@ streamlit run app.py
 * **Module 8:** Priority Queue ticket handling system and final Capstone delivery.
 
 ```
+```
+## App link
+[https://egn310-module-8-2-faustino-fernandez.streamlit.app/](https://egn310-module-8-2-faustino-fernandez.streamlit.app/)
