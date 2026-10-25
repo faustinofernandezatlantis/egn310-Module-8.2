@@ -63,6 +63,8 @@ streamlit run app.py
 4. Select your repository (`egn310-Capstone`), branch (`main`), and set the Main file path to `app.py`.
 5. Click **"Deploy!"**. Streamlit will build and host your web application automatically, generating a public URL you can share.
 
+```
+
 ## Course Progression Summary (Modules 4–8)
 
 * **Module 4:** Initial project proposal and Stack/Queue syntax validation engine.
@@ -71,3 +73,4 @@ streamlit run app.py
 * **Module 7:** Custom Hash Table with dynamic resizing and data structure selection report.
 * **Module 8:** Priority Queue ticket handling system and final Capstone delivery.
 
+```
